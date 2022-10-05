@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+}
+#Contenedor{
+    background: yellow;
+    width: 900px;
+    margin: auto;
+}
